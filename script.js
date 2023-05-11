@@ -4,14 +4,13 @@ function toggleMode() {
 
   // o código de cima faz sozinho essa função toda aq
 
- // if (html.classList.contains('light')) {
- //  html.classList.remove('light')
- // } else {
- // html.classList.add('light')
- // }
-  
+  // if (html.classList.contains('light')) {
+  //  html.classList.remove('light')
+  // } else {
+  // html.classList.add('light')
+  // }
 
-   // AGORA A TROCA DE IMAGEM!
+  // AGORA A TROCA DE IMAGEM!
   // pegar a tag img
   const img = document.querySelector("#profile img")
 
